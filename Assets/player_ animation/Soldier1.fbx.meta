@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 73351c32af2b8ba498c8c7100c7ad75b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: IndianSoldier1:Character1_Ctrl_ChestEndEffector
+    100002: IndianSoldier1:Character1_Ctrl_ChestOriginEffector
+    100004: IndianSoldier1:Character1_Ctrl_Head
+    100006: IndianSoldier1:Character1_Ctrl_HeadEffector
+    100008: IndianSoldier1:Character1_Ctrl_Hips
+    100010: IndianSoldier1:Character1_Ctrl_HipsEffector
+    100012: IndianSoldier1:Character1_Ctrl_LeftAnkleEffector
+    100014: IndianSoldier1:Character1_Ctrl_LeftArm
+    100016: IndianSoldier1:Character1_Ctrl_LeftElbowEffector
+    100018: IndianSoldier1:Character1_Ctrl_LeftFoot
+    100020: IndianSoldier1:Character1_Ctrl_LeftForeArm
+    100022: IndianSoldier1:Character1_Ctrl_LeftHand
+    100024: IndianSoldier1:Character1_Ctrl_LeftHandIndex1
+    100026: IndianSoldier1:Character1_Ctrl_LeftHandIndex2
+    100028: IndianSoldier1:Character1_Ctrl_LeftHandIndex3
+    100030: IndianSoldier1:Character1_Ctrl_LeftHandIndexEffector
+    100032: IndianSoldier1:Character1_Ctrl_LeftHandMiddle1
+    100034: IndianSoldier1:Character1_Ctrl_LeftHandMiddle2
+    100036: IndianSoldier1:Character1_Ctrl_LeftHandMiddle3
+    100038: IndianSoldier1:Character1_Ctrl_LeftHandMiddleEffector
+    100040: IndianSoldier1:Character1_Ctrl_LeftHandPinky1
+    100042: IndianSoldier1:Character1_Ctrl_LeftHandPinky2
+    100044: IndianSoldier1:Character1_Ctrl_LeftHandPinky3
+    100046: IndianSoldier1:Character1_Ctrl_LeftHandPinkyEffector
+    100048: IndianSoldier1:Character1_Ctrl_LeftHandRing1
+    100050: IndianSoldier1:Character1_Ctrl_LeftHandRing2
+    100052: IndianSoldier1:Character1_Ctrl_LeftHandRing3
+    100054: IndianSoldier1:Character1_Ctrl_LeftHandRingEffector
+    100056: IndianSoldier1:Character1_Ctrl_LeftHandThumb1
+    100058: IndianSoldier1:Character1_Ctrl_LeftHandThumb2
+    100060: IndianSoldier1:Character1_Ctrl_LeftHandThumb3
+    100062: IndianSoldier1:Character1_Ctrl_LeftHandThumbEffector
+    100064: IndianSoldier1:Character1_Ctrl_LeftHipEffector
+    100066: IndianSoldier1:Character1_Ctrl_LeftKneeEffector
+    100068: IndianSoldier1:Character1_Ctrl_LeftLeg
+    100070: IndianSoldier1:Character1_Ctrl_LeftShoulder
+    100072: IndianSoldier1:Character1_Ctrl_LeftShoulderEffector
+    100074: IndianSoldier1:Character1_Ctrl_LeftUpLeg
+    100076: IndianSoldier1:Character1_Ctrl_LeftWristEffector
+    100078: IndianSoldier1:Character1_Ctrl_Neck
+    100080: IndianSoldier1:Character1_Ctrl_RightAnkleEffector
+    100082: IndianSoldier1:Character1_Ctrl_RightArm
+    100084: IndianSoldier1:Character1_Ctrl_RightElbowEffector
+    100086: IndianSoldier1:Character1_Ctrl_RightFoot
+    100088: IndianSoldier1:Character1_Ctrl_RightForeArm
+    100090: IndianSoldier1:Character1_Ctrl_RightHand
+    100092: IndianSoldier1:Character1_Ctrl_RightHandIndex1
+    100094: IndianSoldier1:Character1_Ctrl_RightHandIndex2
+    100096: IndianSoldier1:Character1_Ctrl_RightHandIndex3
+    100098: IndianSoldier1:Character1_Ctrl_RightHandIndexEffector
+    100100: IndianSoldier1:Character1_Ctrl_RightHandMiddle1
+    100102: IndianSoldier1:Character1_Ctrl_RightHandMiddle2
+    100104: IndianSoldier1:Character1_Ctrl_RightHandMiddle3
+    100106: IndianSoldier1:Character1_Ctrl_RightHandMiddleEffector
+    100108: IndianSoldier1:Character1_Ctrl_RightHandPinky1
+    100110: IndianSoldier1:Character1_Ctrl_RightHandPinky2
+    100112: IndianSoldier1:Character1_Ctrl_RightHandPinky3
+    100114: IndianSoldier1:Character1_Ctrl_RightHandPinkyEffector
+    100116: IndianSoldier1:Character1_Ctrl_RightHandRing1
+    100118: IndianSoldier1:Character1_Ctrl_RightHandRing2
+    100120: IndianSoldier1:Character1_Ctrl_RightHandRing3
+    100122: IndianSoldier1:Character1_Ctrl_RightHandRingEffector
+    100124: IndianSoldier1:Character1_Ctrl_RightHandThumb1
+    100126: IndianSoldier1:Character1_Ctrl_RightHandThumb2
+    100128: IndianSoldier1:Character1_Ctrl_RightHandThumb3
+    100130: IndianSoldier1:Character1_Ctrl_RightHandThumbEffector
+    100132: IndianSoldier1:Character1_Ctrl_RightHipEffector
+    100134: IndianSoldier1:Character1_Ctrl_RightKneeEffector
+    100136: IndianSoldier1:Character1_Ctrl_RightLeg
+    100138: IndianSoldier1:Character1_Ctrl_RightShoulder
+    100140: IndianSoldier1:Character1_Ctrl_RightShoulderEffector
+    100142: IndianSoldier1:Character1_Ctrl_RightUpLeg
+    100144: IndianSoldier1:Character1_Ctrl_RightWristEffector
+    100146: IndianSoldier1:Character1_Ctrl_Spine
+    100148: IndianSoldier1:Character1_Ctrl_Spine1
+    100150: //RootNode
+    400000: IndianSoldier1:Character1_Ctrl_ChestEndEffector
+    400002: IndianSoldier1:Character1_Ctrl_ChestOriginEffector
+    400004: IndianSoldier1:Character1_Ctrl_Head
+    400006: IndianSoldier1:Character1_Ctrl_HeadEffector
+    400008: IndianSoldier1:Character1_Ctrl_Hips
+    400010: IndianSoldier1:Character1_Ctrl_HipsEffector
+    400012: IndianSoldier1:Character1_Ctrl_LeftAnkleEffector
+    400014: IndianSoldier1:Character1_Ctrl_LeftArm
+    400016: IndianSoldier1:Character1_Ctrl_LeftElbowEffector
+    400018: IndianSoldier1:Character1_Ctrl_LeftFoot
+    400020: IndianSoldier1:Character1_Ctrl_LeftForeArm
+    400022: IndianSoldier1:Character1_Ctrl_LeftHand
+    400024: IndianSoldier1:Character1_Ctrl_LeftHandIndex1
+    400026: IndianSoldier1:Character1_Ctrl_LeftHandIndex2
+    400028: IndianSoldier1:Character1_Ctrl_LeftHandIndex3
+    400030: IndianSoldier1:Character1_Ctrl_LeftHandIndexEffector
+    400032: IndianSoldier1:Character1_Ctrl_LeftHandMiddle1
+    400034: IndianSoldier1:Character1_Ctrl_LeftHandMiddle2
+    400036: IndianSoldier1:Character1_Ctrl_LeftHandMiddle3
+    400038: IndianSoldier1:Character1_Ctrl_LeftHandMiddleEffector
+    400040: IndianSoldier1:Character1_Ctrl_LeftHandPinky1
+    400042: IndianSoldier1:Character1_Ctrl_LeftHandPinky2
+    400044: IndianSoldier1:Character1_Ctrl_LeftHandPinky3
+    400046: IndianSoldier1:Character1_Ctrl_LeftHandPinkyEffector
+    400048: IndianSoldier1:Character1_Ctrl_LeftHandRing1
+    400050: IndianSoldier1:Character1_Ctrl_LeftHandRing2
+    400052: IndianSoldier1:Character1_Ctrl_LeftHandRing3
+    400054: IndianSoldier1:Character1_Ctrl_LeftHandRingEffector
+    400056: IndianSoldier1:Character1_Ctrl_LeftHandThumb1
+    400058: IndianSoldier1:Character1_Ctrl_LeftHandThumb2
+    400060: IndianSoldier1:Character1_Ctrl_LeftHandThumb3
+    400062: IndianSoldier1:Character1_Ctrl_LeftHandThumbEffector
+    400064: IndianSoldier1:Character1_Ctrl_LeftHipEffector
+    400066: IndianSoldier1:Character1_Ctrl_LeftKneeEffector
+    400068: IndianSoldier1:Character1_Ctrl_LeftLeg
+    400070: IndianSoldier1:Character1_Ctrl_LeftShoulder
+    400072: IndianSoldier1:Character1_Ctrl_LeftShoulderEffector
+    400074: IndianSoldier1:Character1_Ctrl_LeftUpLeg
+    400076: IndianSoldier1:Character1_Ctrl_LeftWristEffector
+    400078: IndianSoldier1:Character1_Ctrl_Neck
+    400080: IndianSoldier1:Character1_Ctrl_RightAnkleEffector
+    400082: IndianSoldier1:Character1_Ctrl_RightArm
+    400084: IndianSoldier1:Character1_Ctrl_RightElbowEffector
+    400086: IndianSoldier1:Character1_Ctrl_RightFoot
+    400088: IndianSoldier1:Character1_Ctrl_RightForeArm
+    400090: IndianSoldier1:Character1_Ctrl_RightHand
+    400092: IndianSoldier1:Character1_Ctrl_RightHandIndex1
+    400094: IndianSoldier1:Character1_Ctrl_RightHandIndex2
+    400096: IndianSoldier1:Character1_Ctrl_RightHandIndex3
+    400098: IndianSoldier1:Character1_Ctrl_RightHandIndexEffector
+    400100: IndianSoldier1:Character1_Ctrl_RightHandMiddle1
+    400102: IndianSoldier1:Character1_Ctrl_RightHandMiddle2
+    400104: IndianSoldier1:Character1_Ctrl_RightHandMiddle3
+    400106: IndianSoldier1:Character1_Ctrl_RightHandMiddleEffector
+    400108: IndianSoldier1:Character1_Ctrl_RightHandPinky1
+    400110: IndianSoldier1:Character1_Ctrl_RightHandPinky2
+    400112: IndianSoldier1:Character1_Ctrl_RightHandPinky3
+    400114: IndianSoldier1:Character1_Ctrl_RightHandPinkyEffector
+    400116: IndianSoldier1:Character1_Ctrl_RightHandRing1
+    400118: IndianSoldier1:Character1_Ctrl_RightHandRing2
+    400120: IndianSoldier1:Character1_Ctrl_RightHandRing3
+    400122: IndianSoldier1:Character1_Ctrl_RightHandRingEffector
+    400124: IndianSoldier1:Character1_Ctrl_RightHandThumb1
+    400126: IndianSoldier1:Character1_Ctrl_RightHandThumb2
+    400128: IndianSoldier1:Character1_Ctrl_RightHandThumb3
+    400130: IndianSoldier1:Character1_Ctrl_RightHandThumbEffector
+    400132: IndianSoldier1:Character1_Ctrl_RightHipEffector
+    400134: IndianSoldier1:Character1_Ctrl_RightKneeEffector
+    400136: IndianSoldier1:Character1_Ctrl_RightLeg
+    400138: IndianSoldier1:Character1_Ctrl_RightShoulder
+    400140: IndianSoldier1:Character1_Ctrl_RightShoulderEffector
+    400142: IndianSoldier1:Character1_Ctrl_RightUpLeg
+    400144: IndianSoldier1:Character1_Ctrl_RightWristEffector
+    400146: IndianSoldier1:Character1_Ctrl_Spine
+    400148: IndianSoldier1:Character1_Ctrl_Spine1
+    400150: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: IndianSoldier1:Character1_Ctrl_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndianSoldier1:Character1_Ctrl_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Soldier1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_ChestEndEffector
+      position: {x: -.00111054326, y: 139.586121, z: 3.67982268}
+      rotation: {x: .0953407735, y: -.00590959657, z: 3.39824546e-05, w: .995427191}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_ChestOriginEffector
+      position: {x: .000906943751, y: 99.2330704, z: 1.87503827}
+      rotation: {x: .0612320974, y: -.00195996882, z: -9.75562398e-06, w: .998121619}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_HeadEffector
+      position: {x: -.000978703611, y: 147.427307, z: 5.19117212}
+      rotation: {x: .0440141484, y: -.00536638359, z: -.000275624916, w: .999016464}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_Hips
+      position: {x: .000906944275, y: 90.2312851, z: 5.26695156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftUpLeg
+      position: {x: -9.63376236, y: -3.27325511, z: -7.15255908e-07}
+      rotation: {x: -.0983109996, y: -.191496432, z: -.0249495711, w: .976238489}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftLeg
+      position: {x: -1.33514432e-05, y: -41.7604256, z: -.661545575}
+      rotation: {x: .269176662, y: .140171155, z: -.0273290984, w: .952443838}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftFoot
+      position: {x: -.0126247425, y: -39.1522141, z: -1.91711116}
+      rotation: {x: -.173722669, y: -.0553657226, z: .0343239307, w: .982637823}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightUpLeg
+      position: {x: 9.63376236, y: -3.27325511, z: -7.15255908e-07}
+      rotation: {x: -.122085027, y: -.00353397988, z: .0183113534, w: .992344439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightLeg
+      position: {x: 2.09808404e-05, y: -41.7604256, z: -.661554277}
+      rotation: {x: .288253099, y: -.0215588957, z: -.00252217706, w: .957308233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightFoot
+      position: {x: -.012619975, y: -39.1522141, z: -1.91711521}
+      rotation: {x: .480178654, y: .0405001752, z: -.0859496072, w: .872009754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_Spine
+      position: {x: -0, y: 9.22623634, z: 1.57709789}
+      rotation: {x: .062473502, y: 3.16666546e-06, z: -2.43886369e-08, w: .998046637}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_Spine1
+      position: {x: -1.08420217e-19, y: 16.2540169, z: -.165606782}
+      rotation: {x: .0367987789, y: 2.90686376e-06, z: -1.09933659e-07, w: .999322712}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftShoulder
+      position: {x: -6.14422083, y: 23.8266201, z: -5.08553553}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftArm
+      position: {x: -12.319025, y: -1.11302197, z: -1.79345739}
+      rotation: {x: -.0895571411, y: .0026673181, z: -.000298783038, w: .995978117}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftForeArm
+      position: {x: -27.6869507, y: -.000320434658, z: .00176429783}
+      rotation: {x: .00607895432, y: .0361357145, z: .00260973396, w: .999324977}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHand
+      position: {x: -27.8737431, y: 1.52587927e-05, z: -.000302314817}
+      rotation: {x: -.718711734, y: .18394731, z: .109077722, w: .661603332}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandIndex1
+      position: {x: -10.3945408, y: .614761472, z: 2.70549059}
+      rotation: {x: .161756948, y: .00769653171, z: .0232079793, w: .986527741}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandIndex2
+      position: {x: -5.54927969, y: 0, z: -2.38418636e-07}
+      rotation: {x: 5.92113736e-07, y: -7.00331555e-07, z: .0143300332, w: .999897361}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandIndex3
+      position: {x: -3.39112163, y: 0, z: 0}
+      rotation: {x: -2.67591938e-14, y: -1.33680203e-07, z: -2.0017319e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandMiddle1
+      position: {x: -10.4639082, y: .614761472, z: .429786742}
+      rotation: {x: .159972236, y: .00759584084, z: .0235530324, w: .98681128}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandMiddle2
+      position: {x: -5.79208517, y: 0, z: 0}
+      rotation: {x: 1.04582011e-06, y: -2.54149853e-07, z: .0145489508, w: .999894202}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandMiddle3
+      position: {x: -3.71317387, y: -2.84217094e-14, z: 8.8817842e-16}
+      rotation: {x: -1.13012007e-07, y: 4.10753188e-07, z: -8.5610786e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandPinky1
+      position: {x: -10.0129957, y: -.0783539042, z: -3.96713948}
+      rotation: {x: .158306405, y: .0055600726, z: .0231147595, w: .98710382}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandPinky2
+      position: {x: -3.67625499, y: 0, z: 0}
+      rotation: {x: 1.54347333e-07, y: 6.68765892e-07, z: .0144617213, w: .999895453}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandPinky3
+      position: {x: -2.81134105, y: 2.84217094e-14, z: 0}
+      rotation: {x: -4.26649613e-08, y: 4.82767291e-07, z: -4.09915337e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandRing1
+      position: {x: -10.3251677, y: .321121305, z: -1.87554121}
+      rotation: {x: .166390851, y: .00793426763, z: .0225865245, w: .985769212}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandRing2
+      position: {x: -5.44522238, y: 0, z: 0}
+      rotation: {x: 5.49045353e-07, y: -9.35739735e-08, z: .0134457266, w: .99990958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandRing3
+      position: {x: -3.71317387, y: 0, z: 0}
+      rotation: {x: 2.854336e-07, y: 1.31043248e-06, z: 7.39146117e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandThumb1
+      position: {x: -2.37851763, y: -1.00289941, z: 2.62093472}
+      rotation: {x: -.178054184, y: -.392400265, z: .346963704, w: .833027661}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandThumb2
+      position: {x: -3.3623662, y: -1.00289941, z: 2.83976793}
+      rotation: {x: -.0251848605, y: .0840474442, z: -.00140128727, w: .996142447}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandThumb3
+      position: {x: -4.50180149, y: -1.34449792, z: 2.17826605}
+      rotation: {x: -2.60278e-07, y: 4.13521661e-08, z: 2.93517903e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_Neck
+      position: {x: -0, y: 13.6396513, z: -1.29230511}
+      rotation: {x: -.0311538037, y: .000280375709, z: -9.58230976e-06, w: .99951458}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_Head
+      position: {x: -0, y: 18.2174416, z: -3.4272902}
+      rotation: {x: -.0311938878, y: .000273614191, z: -2.6902464e-05, w: .999513328}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightShoulder
+      position: {x: 6.14019394, y: 23.8266201, z: -5.08554745}
+      rotation: {x: -.0136046903, y: -8.90873423e-07, z: -.0934832394, w: .995527923}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightArm
+      position: {x: 12.3230743, y: -1.11297631, z: -1.79345119}
+      rotation: {x: .0324620269, y: -.00653749704, z: .0796495378, w: .996272802}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightForeArm
+      position: {x: 27.6869392, y: -.000350952236, z: .00223112153}
+      rotation: {x: .223030299, y: .0129837012, z: .0099204164, w: .974674523}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHand
+      position: {x: 27.8737431, y: 0, z: -.000211715742}
+      rotation: {x: -.336839825, y: -.0299783684, z: .0488073155, w: .939818084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandIndex1
+      position: {x: 10.4665022, y: .489578336, z: 2.71196151}
+      rotation: {x: .00519939, y: -.0335336849, z: -.0453203917, w: .998395979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandIndex2
+      position: {x: 5.37676382, y: 0, z: -4.4408921e-16}
+      rotation: {x: -6.0159806e-08, y: 2.35924151e-08, z: -.0274122097, w: .999624252}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandIndex3
+      position: {x: 3.38546824, y: 0, z: -2.38418636e-07}
+      rotation: {x: 0, y: 0, z: 1.91977023e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandMiddle1
+      position: {x: 10.7596006, y: .489578336, z: .427798837}
+      rotation: {x: -.020222323, y: -.0194409639, z: -.0236718226, w: .999326169}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandMiddle2
+      position: {x: 5.61676931, y: 0, z: 0}
+      rotation: {x: 6.71237217e-08, y: -1.96584423e-07, z: -.00349048129, w: .99999398}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandMiddle3
+      position: {x: 3.73635173, y: 0, z: -4.76837272e-07}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandPinky1
+      position: {x: 9.97145271, y: -.119155914, z: -3.95400238}
+      rotation: {x: -.0371588059, y: -.0218147039, z: -.029894501, w: .998623967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandPinky2
+      position: {x: 3.65276408, y: 2.84217094e-14, z: -9.53674544e-07}
+      rotation: {x: 6.68098181e-08, y: 1.9340446e-07, z: -.00942213088, w: .999955654}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandPinky3
+      position: {x: 2.78202891, y: 0, z: 1.77635684e-15}
+      rotation: {x: -2.80581816e-08, y: 3.80518117e-15, z: -1.35617526e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandRing1
+      position: {x: 10.4702177, y: .387863219, z: -1.93627977}
+      rotation: {x: -.0166632682, y: -.0190981962, z: -.0279963519, w: .999286652}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandRing2
+      position: {x: 5.40126944, y: 0, z: 0}
+      rotation: {x: -3.61595909e-08, y: -2.8308088e-07, z: -.00789582822, w: .999968827}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandRing3
+      position: {x: 3.39159441, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandThumb1
+      position: {x: 2.51775432, y: -.936676264, z: 2.51366687}
+      rotation: {x: -.203025639, y: .0473338626, z: -.0389759168, w: .977251768}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandThumb2
+      position: {x: 3.26378679, y: -1.08696008, z: 2.96687603}
+      rotation: {x: -.0295397695, y: -.106396161, z: -.00395532744, w: .993877113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandThumb3
+      position: {x: 4.41652775, y: -1.37027013, z: 2.13502145}
+      rotation: {x: 0, y: 0, z: 3.6114514e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_HipsEffector
+      position: {x: .000906944275, y: 40.7796021, z: 5.26695061}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftAnkleEffector
+      position: {x: -16.8500137, y: 12.1352453, z: 34.0899925}
+      rotation: {x: .00152783853, y: -.112294041, z: .00186981831, w: .993672132}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftElbowEffector
+      position: {x: -11.7615414, y: 121.385017, z: 28.1384792}
+      rotation: {x: -.0466002002, y: .767683685, z: .347369254, w: .536493063}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandIndexEffector
+      position: {x: -18.9014244, y: 105.7351, z: 25.0282822}
+      rotation: {x: .0379471071, y: -.578100741, z: -.588527381, w: .563910663}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandMiddleEffector
+      position: {x: -16.5781498, y: 105.398819, z: 24.2985687}
+      rotation: {x: .0507596135, y: -.574256361, z: -.594713986, w: .560328841}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandPinkyEffector
+      position: {x: -14.1942797, y: 102.785088, z: 22.0708408}
+      rotation: {x: .0411885083, y: -.552961946, z: -.604756534, w: .571669579}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandRingEffector
+      position: {x: -14.8670702, y: 104.751038, z: 22.8652153}
+      rotation: {x: .027753301, y: -.576753974, z: -.5721156, w: .582467616}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHandThumbEffector
+      position: {x: -23.8633862, y: 109.590767, z: 25.0448818}
+      rotation: {x: -.282714099, y: .0404225886, z: .928331792, w: -.237989187}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftHipEffector
+      position: {x: -9.63283253, y: 40.2402344, z: 2.84010196}
+      rotation: {x: -.792919815, y: -.10076528, z: -.00723477639, w: .600892842}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftKneeEffector
+      position: {x: -16.5963345, y: 50.3632126, z: 42.7575684}
+      rotation: {x: .0864681676, y: -.068267405, z: -.0124435015, w: .993834972}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftShoulderEffector
+      position: {x: -18.4623737, y: 134.684479, z: 1.4066633}
+      rotation: {x: -.0223418064, y: .691894352, z: .356559157, w: .627414346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_LeftWristEffector
+      position: {x: .0646124557, y: 112.596878, z: 51.9546928}
+      rotation: {x: -.467560649, y: .410270512, z: .77455771, w: .114566468}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightAnkleEffector
+      position: {x: 9.62202263, y: 20.4223557, z: -9.24505997}
+      rotation: {x: .621862292, y: .0461704433, z: -.0520069711, w: .780032635}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightElbowEffector
+      position: {x: 31.446785, y: 114.487671, z: 12.7285614}
+      rotation: {x: .0680848509, y: .890728235, z: .355972469, w: -.274319679}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandIndexEffector
+      position: {x: 89.5728149, y: 138.550598, z: -1.63565135}
+      rotation: {x: .0389795713, y: -.0793376565, z: -.602984726, w: .792840183}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandMiddleEffector
+      position: {x: 80.8609619, y: 139.702927, z: -5.03542137}
+      rotation: {x: 4.40628064e-05, y: -1.54033853e-06, z: .999389529, w: .0349364541}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandPinkyEffector
+      position: {x: 82.1524353, y: 139.787567, z: -9.1747694}
+      rotation: {x: -.00670874864, y: .0332385674, z: .979414761, w: -.198989674}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandRingEffector
+      position: {x: 81.9988098, y: 138.660446, z: -7.39947033}
+      rotation: {x: 4.36506161e-05, y: 6.20926767e-06, z: .990033567, w: -.14083153}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHandThumbEffector
+      position: {x: 85.3713837, y: 140.888657, z: -2.59954834}
+      rotation: {x: -.103588708, y: .366288006, z: -.0674438328, w: .922254741}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightHipEffector
+      position: {x: 9.6346693, y: 40.240303, z: 2.84010601}
+      rotation: {x: -.31627959, y: -.00827410631, z: .00620262278, w: .94860965}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightKneeEffector
+      position: {x: 9.92056465, y: 6.44208097, z: 27.3750629}
+      rotation: {x: .809377193, y: -.00430789124, z: -.0132629992, w: .587123573}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightShoulderEffector
+      position: {x: 18.0370369, y: 131.239609, z: -1.74317086}
+      rotation: {x: .0702228695, y: -.324409217, z: -.371288747, w: .867163301}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndianSoldier1:Character1_Ctrl_RightWristEffector
+      position: {x: 8.27610493, y: 111.988174, z: 28.475275}
+      rotation: {x: -.540887594, y: -.555805743, z: -.375361741, w: .507566869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

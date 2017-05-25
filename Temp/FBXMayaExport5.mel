@@ -1,0 +1,22 @@
+print "Starting maya loading and fbx conversion \n";
+			
+if (`file -q -exists "C:/Users/saurav/DOCUME~1/THINKS~1/ZOMBIE~1/Assets/Models/UH-60B~1/uh60.mb"`)
+{
+	file -o "C:/Users/saurav/DOCUME~1/THINKS~1/ZOMBIE~1/Assets/Models/UH-60B~1/uh60.mb";
+	FBXExportEmbeddedTextures -v false;
+	// FBXExportHardEdges -v true;
+	FBXExportApplyConstantKeyReducer -v false;
+	FBXExportShowUI -v false;
+
+	print "Before fbx export\n";
+	FBXExport -f "C:/Users/saurav/DOCUME~1/THINKS~1/ZOMBIE~1/Temp/ExportedFBXFile.fbx";
+	print "after fbx export\n";
+}
+else
+	print "Could not open Maya file.";
+
+system ("del \"C:\\Users\\saurav\\DOCUME~1\\THINKS~1\\ZOMBIE~1\\Temp\\CommandPipe\"");
+
+$donepipeKill = `fopen "C:/Users/saurav/DOCUME~1/THINKS~1/ZOMBIE~1/Temp/SyncPipeKill" "w"`;
+fwrite $donepipeKill "Done";
+fclose $donepipeKill;

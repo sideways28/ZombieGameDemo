@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 119b84edd38e8794eb1aa1c9abaa8cf3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Diner_Restaurant_Diner_Restaurant_alumox
+    100004: Diner_Restaurant_Diner_Restaurant_diner_door
+    100006: Diner_Restaurant_Diner_Restaurant_dinersign
+    100008: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02
+    100010: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02_ks_dinermet_02.tga
+    100012: Diner_Restaurant_Diner_Restaurant_mh_dinerdet
+    100014: Diner_Restaurant_Diner_Restaurant_mh_dumbodinner
+    400000: //RootNode
+    400002: Diner_Restaurant_Diner_Restaurant_alumox
+    400004: Diner_Restaurant_Diner_Restaurant_diner_door
+    400006: Diner_Restaurant_Diner_Restaurant_dinersign
+    400008: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02
+    400010: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02_ks_dinermet_02.tga
+    400012: Diner_Restaurant_Diner_Restaurant_mh_dinerdet
+    400014: Diner_Restaurant_Diner_Restaurant_mh_dumbodinner
+    2300000: Diner_Restaurant_Diner_Restaurant_alumox
+    2300002: Diner_Restaurant_Diner_Restaurant_diner_door
+    2300004: Diner_Restaurant_Diner_Restaurant_dinersign
+    2300006: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02
+    2300008: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02_ks_dinermet_02.tga
+    2300010: Diner_Restaurant_Diner_Restaurant_mh_dinerdet
+    2300012: Diner_Restaurant_Diner_Restaurant_mh_dumbodinner
+    3300000: Diner_Restaurant_Diner_Restaurant_alumox
+    3300002: Diner_Restaurant_Diner_Restaurant_diner_door
+    3300004: Diner_Restaurant_Diner_Restaurant_dinersign
+    3300006: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02
+    3300008: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02_ks_dinermet_02.tga
+    3300010: Diner_Restaurant_Diner_Restaurant_mh_dinerdet
+    3300012: Diner_Restaurant_Diner_Restaurant_mh_dumbodinner
+    4300000: Diner_Restaurant_Diner_Restaurant_alumox
+    4300002: Diner_Restaurant_Diner_Restaurant_diner_door
+    4300004: Diner_Restaurant_Diner_Restaurant_dinersign
+    4300006: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02
+    4300008: Diner_Restaurant_Diner_Restaurant_ks_dinermet_02_ks_dinermet_02.tga
+    4300010: Diner_Restaurant_Diner_Restaurant_mh_dinerdet
+    4300012: Diner_Restaurant_Diner_Restaurant_mh_dumbodinner
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: c4f534c93b5a8b340be23be6532a8d96
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car_Wracked:Car_Wracked:null_
+    100004: Car_Wracked:Car_Wracked:null_1
+    100006: Car_Wracked:Car_Wracked:null_2
+    100008: Car_Wracked:Car_Wracked:polySurface10
+    100010: Car_Wracked:Car_Wracked:polySurface11
+    100012: Car_Wracked:Car_Wracked:polySurface12
+    100014: Car_Wracked:Car_Wracked:polySurface13
+    100016: Car_Wracked:Car_Wracked:polySurface14
+    100018: Car_Wracked:Car_Wracked:polySurface15
+    100020: Car_Wracked:Car_Wracked:polySurface16
+    100022: Car_Wracked:Car_Wracked:polySurface17
+    100024: Car_Wracked:Car_Wracked:polySurface18
+    100026: Car_Wracked:Car_Wracked:polySurface19
+    100028: Car_Wracked:Car_Wracked:polySurface2
+    100030: Car_Wracked:Car_Wracked:polySurface20
+    100032: Car_Wracked:Car_Wracked:polySurface21
+    100034: Car_Wracked:Car_Wracked:polySurface22
+    100036: Car_Wracked:Car_Wracked:polySurface23
+    100038: Car_Wracked:Car_Wracked:polySurface24
+    100040: Car_Wracked:Car_Wracked:polySurface25
+    100042: Car_Wracked:Car_Wracked:polySurface26
+    100044: Car_Wracked:Car_Wracked:polySurface27
+    100046: Car_Wracked:Car_Wracked:polySurface28
+    100048: Car_Wracked:Car_Wracked:polySurface29
+    100050: Car_Wracked:Car_Wracked:polySurface30
+    100052: Car_Wracked:Car_Wracked:polySurface31
+    100054: Car_Wracked:Car_Wracked:polySurface32
+    100056: Car_Wracked:Car_Wracked:polySurface33
+    100058: Car_Wracked:Car_Wracked:polySurface34
+    100060: Car_Wracked:Car_Wracked:polySurface35
+    100062: Car_Wracked:Car_Wracked:polySurface36
+    100064: Car_Wracked:Car_Wracked:polySurface37
+    100066: Car_Wracked:Car_Wracked:polySurface38
+    100068: Car_Wracked:Car_Wracked:polySurface39
+    100070: Car_Wracked:Car_Wracked:polySurface40
+    100072: Car_Wracked:Car_Wracked:polySurface41
+    100074: Car_Wracked:Car_Wracked:polySurface42
+    100076: Car_Wracked:Car_Wracked:polySurface43
+    100078: Car_Wracked:Car_Wracked:polySurface44
+    100080: Car_Wracked:Car_Wracked:polySurface45
+    100082: Car_Wracked:Car_Wracked:polySurface46
+    100084: Car_Wracked:Car_Wracked:polySurface47
+    100086: Car_Wracked:Car_Wracked:polySurface48
+    100088: Car_Wracked:Car_Wracked:polySurface49
+    100090: Car_Wracked:Car_Wracked:polySurface5
+    100092: Car_Wracked:Car_Wracked:polySurface50
+    100094: Car_Wracked:Car_Wracked:polySurface51
+    100096: Car_Wracked:Car_Wracked:polySurface52
+    100098: Car_Wracked:Car_Wracked:polySurface53
+    100100: Car_Wracked:Car_Wracked:polySurface54
+    100102: Car_Wracked:Car_Wracked:polySurface55
+    100104: Car_Wracked:Car_Wracked:polySurface56
+    100106: Car_Wracked:Car_Wracked:polySurface57
+    100108: Car_Wracked:Car_Wracked:polySurface58
+    100110: Car_Wracked:Car_Wracked:polySurface59
+    100112: Car_Wracked:Car_Wracked:polySurface6
+    100114: Car_Wracked:Car_Wracked:polySurface60
+    100116: Car_Wracked:Car_Wracked:polySurface61
+    100118: Car_Wracked:Car_Wracked:polySurface62
+    100120: Car_Wracked:Car_Wracked:polySurface63
+    100122: Car_Wracked:Car_Wracked:polySurface64
+    100124: Car_Wracked:Car_Wracked:polySurface65
+    100126: Car_Wracked:Car_Wracked:polySurface66
+    100128: Car_Wracked:Car_Wracked:polySurface67
+    100130: Car_Wracked:Car_Wracked:polySurface68
+    100132: Car_Wracked:Car_Wracked:polySurface69
+    100134: Car_Wracked:Car_Wracked:polySurface7
+    100136: Car_Wracked:Car_Wracked:polySurface70
+    100138: Car_Wracked:Car_Wracked:polySurface71
+    100140: Car_Wracked:Car_Wracked:polySurface72
+    100142: Car_Wracked:Car_Wracked:polySurface73
+    100144: Car_Wracked:Car_Wracked:polySurface74
+    100146: Car_Wracked:Car_Wracked:polySurface75
+    100148: Car_Wracked:Car_Wracked:polySurface76
+    100150: Car_Wracked:Car_Wracked:polySurface77
+    100152: Car_Wracked:Car_Wracked:polySurface78
+    100154: Car_Wracked:Car_Wracked:polySurface79
+    100156: Car_Wracked:Car_Wracked:polySurface8
+    100158: Car_Wracked:Car_Wracked:polySurface80
+    100160: Car_Wracked:Car_Wracked:polySurface81
+    100162: Car_Wracked:Car_Wracked:polySurface82
+    100164: Car_Wracked:Car_Wracked:polySurface83
+    100166: Car_Wracked:Car_Wracked:polySurface84
+    100168: Car_Wracked:Car_Wracked:polySurface85
+    100170: Car_Wracked:Car_Wracked:polySurface86
+    100172: Car_Wracked:Car_Wracked:polySurface87
+    100174: Car_Wracked:Car_Wracked:polySurface88
+    100176: Car_Wracked:Car_Wracked:polySurface89
+    100178: Car_Wracked:Car_Wracked:polySurface9
+    100180: Car_Wracked:Car_Wracked:polySurface90
+    100182: Car_Wracked:Car_Wracked:polySurface91
+    100184: Car_Wracked:Car_Wracked:polySurface92
+    100186: Car_Wracked:Car_Wracked:polySurface93
+    100188: Car_Wracked:Car_Wracked:polySurface94
+    100190: Car_Wracked:Car_Wracked:polySurface95
+    100192: Car_Wracked:Car_Wracked:transform10
+    100194: Car_Wracked:Car_Wracked:transform4
+    100196: Car_Wracked:Car_Wracked:transform5
+    100198: Car_Wracked:Car_Wracked:transform6
+    100200: Car_Wracked:Car_Wracked:transform7
+    100202: Car_Wracked:Car_Wracked:transform8
+    100204: Car_Wracked:Car_Wracked:transform9
+    100206: Car_Wracked:polySurface1
+    100208: Car_Wracked:transform1
+    100210: Car_Wracked:transform10
+    100212: Car_Wracked:transform11
+    100214: Car_Wracked:transform12
+    100216: Car_Wracked:transform13
+    100218: Car_Wracked:transform14
+    100220: Car_Wracked:transform15
+    100222: Car_Wracked:transform16
+    100224: Car_Wracked:transform17
+    100226: Car_Wracked:transform18
+    100228: Car_Wracked:transform19
+    100230: Car_Wracked:transform2
+    100232: Car_Wracked:transform20
+    100234: Car_Wracked:transform21
+    100236: Car_Wracked:transform22
+    100238: Car_Wracked:transform23
+    100240: Car_Wracked:transform24
+    100242: Car_Wracked:transform25
+    100244: Car_Wracked:transform26
+    100246: Car_Wracked:transform27
+    100248: Car_Wracked:transform28
+    100250: Car_Wracked:transform29
+    100252: Car_Wracked:transform3
+    100254: Car_Wracked:transform30
+    100256: Car_Wracked:transform31
+    100258: Car_Wracked:transform32
+    100260: Car_Wracked:transform33
+    100262: Car_Wracked:transform34
+    100264: Car_Wracked:transform35
+    100266: Car_Wracked:transform36
+    100268: Car_Wracked:transform37
+    100270: Car_Wracked:transform38
+    100272: Car_Wracked:transform39
+    100274: Car_Wracked:transform4
+    100276: Car_Wracked:transform40
+    100278: Car_Wracked:transform41
+    100280: Car_Wracked:transform42
+    100282: Car_Wracked:transform43
+    100284: Car_Wracked:transform44
+    100286: Car_Wracked:transform45
+    100288: Car_Wracked:transform46
+    100290: Car_Wracked:transform47
+    100292: Car_Wracked:transform48
+    100294: Car_Wracked:transform49
+    100296: Car_Wracked:transform5
+    100298: Car_Wracked:transform50
+    100300: Car_Wracked:transform51
+    100302: Car_Wracked:transform52
+    100304: Car_Wracked:transform53
+    100306: Car_Wracked:transform54
+    100308: Car_Wracked:transform55
+    100310: Car_Wracked:transform56
+    100312: Car_Wracked:transform57
+    100314: Car_Wracked:transform58
+    100316: Car_Wracked:transform59
+    100318: Car_Wracked:transform6
+    100320: Car_Wracked:transform60
+    100322: Car_Wracked:transform61
+    100324: Car_Wracked:transform62
+    100326: Car_Wracked:transform63
+    100328: Car_Wracked:transform64
+    100330: Car_Wracked:transform65
+    100332: Car_Wracked:transform66
+    100334: Car_Wracked:transform7
+    100336: Car_Wracked:transform8
+    100338: Car_Wracked:transform9
+    400000: //RootNode
+    400002: Car_Wracked:Car_Wracked:null_
+    400004: Car_Wracked:Car_Wracked:null_1
+    400006: Car_Wracked:Car_Wracked:null_2
+    400008: Car_Wracked:Car_Wracked:polySurface10
+    400010: Car_Wracked:Car_Wracked:polySurface11
+    400012: Car_Wracked:Car_Wracked:polySurface12
+    400014: Car_Wracked:Car_Wracked:polySurface13
+    400016: Car_Wracked:Car_Wracked:polySurface14
+    400018: Car_Wracked:Car_Wracked:polySurface15
+    400020: Car_Wracked:Car_Wracked:polySurface16
+    400022: Car_Wracked:Car_Wracked:polySurface17
+    400024: Car_Wracked:Car_Wracked:polySurface18
+    400026: Car_Wracked:Car_Wracked:polySurface19
+    400028: Car_Wracked:Car_Wracked:polySurface2
+    400030: Car_Wracked:Car_Wracked:polySurface20
+    400032: Car_Wracked:Car_Wracked:polySurface21
+    400034: Car_Wracked:Car_Wracked:polySurface22
+    400036: Car_Wracked:Car_Wracked:polySurface23
+    400038: Car_Wracked:Car_Wracked:polySurface24
+    400040: Car_Wracked:Car_Wracked:polySurface25
+    400042: Car_Wracked:Car_Wracked:polySurface26
+    400044: Car_Wracked:Car_Wracked:polySurface27
+    400046: Car_Wracked:Car_Wracked:polySurface28
+    400048: Car_Wracked:Car_Wracked:polySurface29
+    400050: Car_Wracked:Car_Wracked:polySurface30
+    400052: Car_Wracked:Car_Wracked:polySurface31
+    400054: Car_Wracked:Car_Wracked:polySurface32
+    400056: Car_Wracked:Car_Wracked:polySurface33
+    400058: Car_Wracked:Car_Wracked:polySurface34
+    400060: Car_Wracked:Car_Wracked:polySurface35
+    400062: Car_Wracked:Car_Wracked:polySurface36
+    400064: Car_Wracked:Car_Wracked:polySurface37
+    400066: Car_Wracked:Car_Wracked:polySurface38
+    400068: Car_Wracked:Car_Wracked:polySurface39
+    400070: Car_Wracked:Car_Wracked:polySurface40
+    400072: Car_Wracked:Car_Wracked:polySurface41
+    400074: Car_Wracked:Car_Wracked:polySurface42
+    400076: Car_Wracked:Car_Wracked:polySurface43
+    400078: Car_Wracked:Car_Wracked:polySurface44
+    400080: Car_Wracked:Car_Wracked:polySurface45
+    400082: Car_Wracked:Car_Wracked:polySurface46
+    400084: Car_Wracked:Car_Wracked:polySurface47
+    400086: Car_Wracked:Car_Wracked:polySurface48
+    400088: Car_Wracked:Car_Wracked:polySurface49
+    400090: Car_Wracked:Car_Wracked:polySurface5
+    400092: Car_Wracked:Car_Wracked:polySurface50
+    400094: Car_Wracked:Car_Wracked:polySurface51
+    400096: Car_Wracked:Car_Wracked:polySurface52
+    400098: Car_Wracked:Car_Wracked:polySurface53
+    400100: Car_Wracked:Car_Wracked:polySurface54
+    400102: Car_Wracked:Car_Wracked:polySurface55
+    400104: Car_Wracked:Car_Wracked:polySurface56
+    400106: Car_Wracked:Car_Wracked:polySurface57
+    400108: Car_Wracked:Car_Wracked:polySurface58
+    400110: Car_Wracked:Car_Wracked:polySurface59
+    400112: Car_Wracked:Car_Wracked:polySurface6
+    400114: Car_Wracked:Car_Wracked:polySurface60
+    400116: Car_Wracked:Car_Wracked:polySurface61
+    400118: Car_Wracked:Car_Wracked:polySurface62
+    400120: Car_Wracked:Car_Wracked:polySurface63
+    400122: Car_Wracked:Car_Wracked:polySurface64
+    400124: Car_Wracked:Car_Wracked:polySurface65
+    400126: Car_Wracked:Car_Wracked:polySurface66
+    400128: Car_Wracked:Car_Wracked:polySurface67
+    400130: Car_Wracked:Car_Wracked:polySurface68
+    400132: Car_Wracked:Car_Wracked:polySurface69
+    400134: Car_Wracked:Car_Wracked:polySurface7
+    400136: Car_Wracked:Car_Wracked:polySurface70
+    400138: Car_Wracked:Car_Wracked:polySurface71
+    400140: Car_Wracked:Car_Wracked:polySurface72
+    400142: Car_Wracked:Car_Wracked:polySurface73
+    400144: Car_Wracked:Car_Wracked:polySurface74
+    400146: Car_Wracked:Car_Wracked:polySurface75
+    400148: Car_Wracked:Car_Wracked:polySurface76
+    400150: Car_Wracked:Car_Wracked:polySurface77
+    400152: Car_Wracked:Car_Wracked:polySurface78
+    400154: Car_Wracked:Car_Wracked:polySurface79
+    400156: Car_Wracked:Car_Wracked:polySurface8
+    400158: Car_Wracked:Car_Wracked:polySurface80
+    400160: Car_Wracked:Car_Wracked:polySurface81
+    400162: Car_Wracked:Car_Wracked:polySurface82
+    400164: Car_Wracked:Car_Wracked:polySurface83
+    400166: Car_Wracked:Car_Wracked:polySurface84
+    400168: Car_Wracked:Car_Wracked:polySurface85
+    400170: Car_Wracked:Car_Wracked:polySurface86
+    400172: Car_Wracked:Car_Wracked:polySurface87
+    400174: Car_Wracked:Car_Wracked:polySurface88
+    400176: Car_Wracked:Car_Wracked:polySurface89
+    400178: Car_Wracked:Car_Wracked:polySurface9
+    400180: Car_Wracked:Car_Wracked:polySurface90
+    400182: Car_Wracked:Car_Wracked:polySurface91
+    400184: Car_Wracked:Car_Wracked:polySurface92
+    400186: Car_Wracked:Car_Wracked:polySurface93
+    400188: Car_Wracked:Car_Wracked:polySurface94
+    400190: Car_Wracked:Car_Wracked:polySurface95
+    400192: Car_Wracked:Car_Wracked:transform10
+    400194: Car_Wracked:Car_Wracked:transform4
+    400196: Car_Wracked:Car_Wracked:transform5
+    400198: Car_Wracked:Car_Wracked:transform6
+    400200: Car_Wracked:Car_Wracked:transform7
+    400202: Car_Wracked:Car_Wracked:transform8
+    400204: Car_Wracked:Car_Wracked:transform9
+    400206: Car_Wracked:polySurface1
+    400208: Car_Wracked:transform1
+    400210: Car_Wracked:transform10
+    400212: Car_Wracked:transform11
+    400214: Car_Wracked:transform12
+    400216: Car_Wracked:transform13
+    400218: Car_Wracked:transform14
+    400220: Car_Wracked:transform15
+    400222: Car_Wracked:transform16
+    400224: Car_Wracked:transform17
+    400226: Car_Wracked:transform18
+    400228: Car_Wracked:transform19
+    400230: Car_Wracked:transform2
+    400232: Car_Wracked:transform20
+    400234: Car_Wracked:transform21
+    400236: Car_Wracked:transform22
+    400238: Car_Wracked:transform23
+    400240: Car_Wracked:transform24
+    400242: Car_Wracked:transform25
+    400244: Car_Wracked:transform26
+    400246: Car_Wracked:transform27
+    400248: Car_Wracked:transform28
+    400250: Car_Wracked:transform29
+    400252: Car_Wracked:transform3
+    400254: Car_Wracked:transform30
+    400256: Car_Wracked:transform31
+    400258: Car_Wracked:transform32
+    400260: Car_Wracked:transform33
+    400262: Car_Wracked:transform34
+    400264: Car_Wracked:transform35
+    400266: Car_Wracked:transform36
+    400268: Car_Wracked:transform37
+    400270: Car_Wracked:transform38
+    400272: Car_Wracked:transform39
+    400274: Car_Wracked:transform4
+    400276: Car_Wracked:transform40
+    400278: Car_Wracked:transform41
+    400280: Car_Wracked:transform42
+    400282: Car_Wracked:transform43
+    400284: Car_Wracked:transform44
+    400286: Car_Wracked:transform45
+    400288: Car_Wracked:transform46
+    400290: Car_Wracked:transform47
+    400292: Car_Wracked:transform48
+    400294: Car_Wracked:transform49
+    400296: Car_Wracked:transform5
+    400298: Car_Wracked:transform50
+    400300: Car_Wracked:transform51
+    400302: Car_Wracked:transform52
+    400304: Car_Wracked:transform53
+    400306: Car_Wracked:transform54
+    400308: Car_Wracked:transform55
+    400310: Car_Wracked:transform56
+    400312: Car_Wracked:transform57
+    400314: Car_Wracked:transform58
+    400316: Car_Wracked:transform59
+    400318: Car_Wracked:transform6
+    400320: Car_Wracked:transform60
+    400322: Car_Wracked:transform61
+    400324: Car_Wracked:transform62
+    400326: Car_Wracked:transform63
+    400328: Car_Wracked:transform64
+    400330: Car_Wracked:transform65
+    400332: Car_Wracked:transform66
+    400334: Car_Wracked:transform7
+    400336: Car_Wracked:transform8
+    400338: Car_Wracked:transform9
+    2300000: Car_Wracked:Car_Wracked:polySurface21
+    2300002: Car_Wracked:Car_Wracked:polySurface22
+    2300004: Car_Wracked:Car_Wracked:polySurface23
+    2300006: Car_Wracked:Car_Wracked:polySurface24
+    2300008: Car_Wracked:Car_Wracked:polySurface27
+    2300010: Car_Wracked:Car_Wracked:polySurface28
+    2300012: Car_Wracked:Car_Wracked:polySurface29
+    2300014: Car_Wracked:Car_Wracked:polySurface35
+    2300016: Car_Wracked:Car_Wracked:polySurface36
+    2300018: Car_Wracked:Car_Wracked:polySurface39
+    2300020: Car_Wracked:Car_Wracked:polySurface40
+    2300022: Car_Wracked:Car_Wracked:polySurface43
+    2300024: Car_Wracked:Car_Wracked:polySurface64
+    2300026: Car_Wracked:Car_Wracked:polySurface81
+    2300028: Car_Wracked:Car_Wracked:polySurface83
+    2300030: Car_Wracked:Car_Wracked:polySurface84
+    2300032: Car_Wracked:Car_Wracked:polySurface85
+    2300034: Car_Wracked:Car_Wracked:polySurface86
+    2300036: Car_Wracked:Car_Wracked:polySurface89
+    2300038: Car_Wracked:Car_Wracked:polySurface91
+    2300040: Car_Wracked:Car_Wracked:polySurface92
+    2300042: Car_Wracked:Car_Wracked:polySurface94
+    2300044: Car_Wracked:polySurface1
+    3300000: Car_Wracked:Car_Wracked:polySurface21
+    3300002: Car_Wracked:Car_Wracked:polySurface22
+    3300004: Car_Wracked:Car_Wracked:polySurface23
+    3300006: Car_Wracked:Car_Wracked:polySurface24
+    3300008: Car_Wracked:Car_Wracked:polySurface27
+    3300010: Car_Wracked:Car_Wracked:polySurface28
+    3300012: Car_Wracked:Car_Wracked:polySurface29
+    3300014: Car_Wracked:Car_Wracked:polySurface35
+    3300016: Car_Wracked:Car_Wracked:polySurface36
+    3300018: Car_Wracked:Car_Wracked:polySurface39
+    3300020: Car_Wracked:Car_Wracked:polySurface40
+    3300022: Car_Wracked:Car_Wracked:polySurface43
+    3300024: Car_Wracked:Car_Wracked:polySurface64
+    3300026: Car_Wracked:Car_Wracked:polySurface81
+    3300028: Car_Wracked:Car_Wracked:polySurface83
+    3300030: Car_Wracked:Car_Wracked:polySurface84
+    3300032: Car_Wracked:Car_Wracked:polySurface85
+    3300034: Car_Wracked:Car_Wracked:polySurface86
+    3300036: Car_Wracked:Car_Wracked:polySurface89
+    3300038: Car_Wracked:Car_Wracked:polySurface91
+    3300040: Car_Wracked:Car_Wracked:polySurface92
+    3300042: Car_Wracked:Car_Wracked:polySurface94
+    3300044: Car_Wracked:polySurface1
+    4300000: Car_Wracked:Car_Wracked:polySurface21
+    4300002: Car_Wracked:Car_Wracked:polySurface22
+    4300004: Car_Wracked:Car_Wracked:polySurface23
+    4300006: Car_Wracked:Car_Wracked:polySurface24
+    4300008: Car_Wracked:Car_Wracked:polySurface27
+    4300010: Car_Wracked:Car_Wracked:polySurface28
+    4300012: Car_Wracked:Car_Wracked:polySurface29
+    4300014: Car_Wracked:Car_Wracked:polySurface35
+    4300016: Car_Wracked:Car_Wracked:polySurface36
+    4300018: Car_Wracked:Car_Wracked:polySurface39
+    4300020: Car_Wracked:Car_Wracked:polySurface40
+    4300022: Car_Wracked:Car_Wracked:polySurface43
+    4300024: Car_Wracked:Car_Wracked:polySurface64
+    4300026: Car_Wracked:Car_Wracked:polySurface81
+    4300028: Car_Wracked:Car_Wracked:polySurface83
+    4300030: Car_Wracked:Car_Wracked:polySurface84
+    4300032: Car_Wracked:Car_Wracked:polySurface85
+    4300034: Car_Wracked:Car_Wracked:polySurface86
+    4300036: Car_Wracked:Car_Wracked:polySurface89
+    4300038: Car_Wracked:Car_Wracked:polySurface91
+    4300040: Car_Wracked:Car_Wracked:polySurface92
+    4300042: Car_Wracked:Car_Wracked:polySurface94
+    4300044: Car_Wracked:polySurface1
+    7400000: CarBlastAnimation
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CarBlastAnimation
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:null_
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:null_/Car_Wracked:Car_Wracked:transform6
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:null_1
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:null_1/Car_Wracked:Car_Wracked:transform5
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:null_2
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:null_2/Car_Wracked:Car_Wracked:transform4
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface5
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface5/Car_Wracked:transform66
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface6
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface6/Car_Wracked:transform65
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface7
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface7/Car_Wracked:transform64
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface8
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface8/Car_Wracked:transform63
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface9
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface9/Car_Wracked:transform62
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface10
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface10/Car_Wracked:transform61
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface11
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface11/Car_Wracked:transform60
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface12
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface12/Car_Wracked:transform59
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface13
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface13/Car_Wracked:transform58
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface14
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface14/Car_Wracked:transform57
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface15
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface15/Car_Wracked:transform56
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface16
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface16/Car_Wracked:transform55
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface17
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface17/Car_Wracked:transform54
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface18
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface18/Car_Wracked:transform53
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface19
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface19/Car_Wracked:transform52
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface20
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface20/Car_Wracked:transform51
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface21
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface22
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface23
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface24
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface25
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface25/Car_Wracked:transform50
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface26
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface26/Car_Wracked:transform49
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface27
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface28
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface29
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface30
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface30/Car_Wracked:transform48
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface31
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface31/Car_Wracked:transform47
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface32
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface32/Car_Wracked:transform46
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface33
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface33/Car_Wracked:transform45
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface34
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface34/Car_Wracked:transform44
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface35
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface36
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface37
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface37/Car_Wracked:Car_Wracked:transform10
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface38
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface38/Car_Wracked:Car_Wracked:transform8
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface39
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface40
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface41
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface41/Car_Wracked:Car_Wracked:transform9
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface42
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface42/Car_Wracked:transform43
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface43
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface44
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface44/Car_Wracked:transform42
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface45
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface45/Car_Wracked:transform41
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface46
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface46/Car_Wracked:transform40
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface47
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface47/Car_Wracked:transform39
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface48
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface48/Car_Wracked:transform38
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface49
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface49/Car_Wracked:transform37
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface50
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface50/Car_Wracked:transform36
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface51
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface51/Car_Wracked:transform35
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface52
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface52/Car_Wracked:transform34
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface53
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface53/Car_Wracked:transform33
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface54
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface54/Car_Wracked:transform32
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface55
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface55/Car_Wracked:transform31
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface56
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface56/Car_Wracked:transform30
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface57
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface57/Car_Wracked:transform29
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface58
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface58/Car_Wracked:transform28
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface59
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface59/Car_Wracked:transform27
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface60
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface60/Car_Wracked:transform26
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface61
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface61/Car_Wracked:transform25
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface62
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface62/Car_Wracked:transform24
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface63
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface63/Car_Wracked:transform23
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface64
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface65
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface65/Car_Wracked:transform22
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface66
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface66/Car_Wracked:transform21
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface67
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface67/Car_Wracked:transform20
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface68
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface68/Car_Wracked:transform19
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface69
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface69/Car_Wracked:transform18
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface70
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface70/Car_Wracked:transform17
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface71
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface71/Car_Wracked:transform16
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface72
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface72/Car_Wracked:transform15
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface73
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface73/Car_Wracked:transform14
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface74
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface74/Car_Wracked:transform13
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface75
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface75/Car_Wracked:transform12
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface76
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface76/Car_Wracked:transform11
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface77
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface77/Car_Wracked:transform10
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface78
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface78/Car_Wracked:transform9
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface79
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface79/Car_Wracked:transform8
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface80
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface80/Car_Wracked:transform7
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface81
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface82
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface82/Car_Wracked:transform6
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface83
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface84
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface85
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface86
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface87
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface87/Car_Wracked:transform5
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface88
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface88/Car_Wracked:transform4
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface89
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface90
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface90/Car_Wracked:transform3
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface91
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface92
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface93
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface93/Car_Wracked:transform2
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface95
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:polySurface95/Car_Wracked:transform1
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface2/Car_Wracked:Car_Wracked:transform7
+        weight: 1
+      - path: Car_Wracked:Car_Wracked:polySurface94
+        weight: 1
+      - path: Car_Wracked:polySurface1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
